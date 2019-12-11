@@ -10,7 +10,7 @@ public class Gettitle extends Lunchapplication {
 	
 
 	@Test
-	public void gettitle() {
+	public void gettitle() { 
 		
 		String  title=driver.getTitle();
 		System.out.println(title);
