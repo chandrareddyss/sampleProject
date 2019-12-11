@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class Gettitle extends Lunchapplication {
 	
 
-	@Test
+	@Test 
 	public void gettitle() { 
 		
 		String  title=driver.getTitle();
