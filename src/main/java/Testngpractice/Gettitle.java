@@ -1,9 +1,6 @@
 package Testngpractice;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.DataProvider;
+
 import org.testng.annotations.Test;
 
 public class Gettitle extends Lunchapplication {

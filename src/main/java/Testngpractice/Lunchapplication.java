@@ -1,6 +1,6 @@
 package Testngpractice;
 
-import org.ghost4j.GhostscriptLibrary.stderr_fn;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

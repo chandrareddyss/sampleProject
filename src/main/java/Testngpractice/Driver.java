@@ -12,6 +12,5 @@ public class Driver {
 	public static WebDriver get() {
 		return driverThread.get();
 	}
-	
 
 }
